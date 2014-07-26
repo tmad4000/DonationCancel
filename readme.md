@@ -32,3 +32,5 @@ No more wasting!
   OS X 10.9<i> or higer</i>
 
 * Ruby MRI 2.0<i> or higher</i>
+
+* node.js 0.10<i> or higher</i>
