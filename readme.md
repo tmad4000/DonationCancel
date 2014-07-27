@@ -8,7 +8,7 @@ No more wasting!
 1.  Clone the repository & checkout to this branch
 
     ```
-    git clone git@github.com:tmad4000/DonationCancel.git donation-cancel
+    git clone https://github.com/tmad4000/DonationCancel.git donation-cancel
     cd donation-cancel
     git checkout --track origin/master-rails
     ```
